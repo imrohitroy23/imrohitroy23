@@ -12,7 +12,7 @@
  🌱 I’m currently learning Spring Boot
 
 
- 👨‍💻 All of my projects are available at [https://rohitroyportfolio.netlify.app/](https://rohitroyportfolio.netlify.app/)
+ 👨‍💻 All of my projects are available at [https://rohitroy.netlify.app/](https://rohitroyportfolio.netlify.app/)
 
  📫 How to reach me imrohitroy23@gmail.com
 
