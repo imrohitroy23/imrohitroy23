@@ -9,12 +9,12 @@
  </h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="norefer
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imrohitroy23&label=Profile%20views&color=0e75b6&style=flat" alt="imrohitroy23" /> </p>
-
+<br>
 <h3 align="center">
  🌱 I’m currently learning Spring Boot
 
 
- 👨‍💻 All of my projects are available at [https://rohitroy.netlify.app/](https://rohitroyportfolio.netlify.app/)
+ 👨‍💻 All of my projects are available at [https://rohitroy.netlify.app/](https://rohitroy.netlify.app/)
 
  📫 How to reach me imrohitroy23@gmail.com
 
